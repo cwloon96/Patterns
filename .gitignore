@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PatternsExamples/bin/Debug
+/PatternsExamples/obj/Debug
+/PatternsExamples/Properties/AssemblyInfo.cs
+/PatternsExamplesTest/bin/Debug
+/PatternsExamplesTest/obj/Debug
+/PatternsExamplesTest/Properties/AssemblyInfo.cs
+/.vs/Patterns/v15/Server/sqlite3
+/.vs/Patterns/v15/.suo
