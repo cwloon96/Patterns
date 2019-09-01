@@ -66,6 +66,7 @@
     <Compile Include="Structural\AdapterTest.cs" />
     <Compile Include="Structural\DecoratorTest.cs" />
     <Compile Include="Structural\FacadeTest.cs" />
+    <Compile Include="Structural\ProxyTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

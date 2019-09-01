@@ -66,6 +66,7 @@
     <Compile Include="Structural\Facade\HomeFacade.cs" />
     <Compile Include="Structural\Facade\Models\HomeSubSystem.cs" />
     <Compile Include="Structural\Facade\Models\IHomeSubSystem.cs" />
+    <Compile Include="Structural\Proxy\OrderSystems.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Behavioural\ChainOfResponsibility\" />
@@ -80,7 +81,6 @@
     <Folder Include="Structural\Bridge\" />
     <Folder Include="Structural\Composite\" />
     <Folder Include="Structural\Flyweight\" />
-    <Folder Include="Structural\Proxy\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
