@@ -64,6 +64,7 @@
     <Compile Include="Creational\SingletonTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structural\AdapterTest.cs" />
+    <Compile Include="Structural\BridgeTest.cs" />
     <Compile Include="Structural\DecoratorTest.cs" />
     <Compile Include="Structural\FacadeTest.cs" />
     <Compile Include="Structural\ProxyTest.cs" />

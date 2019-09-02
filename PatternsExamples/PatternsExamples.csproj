@@ -61,6 +61,9 @@
     <Compile Include="Structural\Adapter\Adaptees.cs" />
     <Compile Include="Structural\Adapter\CharacterAdapters.cs" />
     <Compile Include="Structural\Adapter\ICharacter.cs" />
+    <Compile Include="Structural\Bridge\Models.cs" />
+    <Compile Include="Structural\Bridge\Resources.cs" />
+    <Compile Include="Structural\Bridge\Views.cs" />
     <Compile Include="Structural\Decorator\AddOnDecorator.cs" />
     <Compile Include="Structural\Decorator\Beverage.cs" />
     <Compile Include="Structural\Facade\HomeFacade.cs" />
@@ -78,7 +81,6 @@
     <Folder Include="Behavioural\Visitor\" />
     <Folder Include="Creational\Builder\" />
     <Folder Include="Creational\Prototype\" />
-    <Folder Include="Structural\Bridge\" />
     <Folder Include="Structural\Composite\" />
     <Folder Include="Structural\Flyweight\" />
   </ItemGroup>
