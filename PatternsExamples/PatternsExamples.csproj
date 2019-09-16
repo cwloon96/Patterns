@@ -64,6 +64,9 @@
     <Compile Include="Structural\Bridge\Models.cs" />
     <Compile Include="Structural\Bridge\Resources.cs" />
     <Compile Include="Structural\Bridge\Views.cs" />
+    <Compile Include="Structural\Composite\FoodCollection.cs" />
+    <Compile Include="Structural\Composite\FoodBase.cs" />
+    <Compile Include="Structural\Composite\SimpleFood.cs" />
     <Compile Include="Structural\Decorator\AddOnDecorator.cs" />
     <Compile Include="Structural\Decorator\Beverage.cs" />
     <Compile Include="Structural\Facade\HomeFacade.cs" />
@@ -81,7 +84,6 @@
     <Folder Include="Behavioural\Visitor\" />
     <Folder Include="Creational\Builder\" />
     <Folder Include="Creational\Prototype\" />
-    <Folder Include="Structural\Composite\" />
     <Folder Include="Structural\Flyweight\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
