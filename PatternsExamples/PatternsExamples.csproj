@@ -44,6 +44,8 @@
     <Compile Include="Behavioural\Command\Commands.cs" />
     <Compile Include="Behavioural\Command\Controller.cs" />
     <Compile Include="Behavioural\Command\Light.cs" />
+    <Compile Include="Behavioural\NullObject\StudentFactory.cs" />
+    <Compile Include="Behavioural\NullObject\Students.cs" />
     <Compile Include="Behavioural\Observer\Observable.cs" />
     <Compile Include="Behavioural\Observer\Observer.cs" />
     <Compile Include="Behavioural\Strategy\Cafe.cs" />
