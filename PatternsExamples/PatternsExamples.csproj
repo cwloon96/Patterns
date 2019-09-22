@@ -74,6 +74,8 @@
     <Compile Include="Structural\Facade\HomeFacade.cs" />
     <Compile Include="Structural\Facade\Models\HomeSubSystem.cs" />
     <Compile Include="Structural\Facade\Models\IHomeSubSystem.cs" />
+    <Compile Include="Structural\Flyweight\CircleFactory.cs" />
+    <Compile Include="Structural\Flyweight\Shapes.cs" />
     <Compile Include="Structural\Proxy\OrderSystems.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -86,7 +88,6 @@
     <Folder Include="Behavioural\Visitor\" />
     <Folder Include="Creational\Builder\" />
     <Folder Include="Creational\Prototype\" />
-    <Folder Include="Structural\Flyweight\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
