@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioural\ChainOfResponsibility\ChainOfExecutor.cs" />
+    <Compile Include="Behavioural\ChainOfResponsibility\Executor.cs" />
     <Compile Include="Behavioural\Command\Commands.cs" />
     <Compile Include="Behavioural\Command\Controller.cs" />
     <Compile Include="Behavioural\Command\Light.cs" />
@@ -89,7 +91,6 @@
     <Compile Include="Structural\Proxy\OrderSystems.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Behavioural\ChainOfResponsibility\" />
     <Folder Include="Behavioural\Interpreter\" />
     <Folder Include="Behavioural\Iterator\" />
     <Folder Include="Behavioural\Mediator\" />

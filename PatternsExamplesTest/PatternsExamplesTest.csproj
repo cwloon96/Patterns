@@ -55,6 +55,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioural\ChainOfResponsibilityTest.cs" />
     <Compile Include="Behavioural\CommandTest.cs" />
     <Compile Include="Behavioural\NullObjectTest.cs" />
     <Compile Include="Behavioural\ObserverTest.cs" />
