@@ -58,6 +58,11 @@
     <Compile Include="Creational\AbstractMethod\Factories\EmployeeComputerFactory.cs" />
     <Compile Include="Creational\AbstractMethod\Products\OperatingSystem.cs" />
     <Compile Include="Creational\AbstractMethod\Products\Processor.cs" />
+    <Compile Include="Creational\Builder\Character.cs" />
+    <Compile Include="Creational\Builder\CharacterFluentBuilder.cs" />
+    <Compile Include="Creational\Builder\CharacterBuilder.cs" />
+    <Compile Include="Creational\Builder\CharacterCreator.cs" />
+    <Compile Include="Creational\Builder\ICharacterBuilder.cs" />
     <Compile Include="Creational\FactoryMethod\ToyFactory.cs" />
     <Compile Include="Creational\Prototype\Clonable.cs" />
     <Compile Include="Creational\Prototype\Person.cs" />
@@ -91,7 +96,6 @@
     <Folder Include="Behavioural\Memento\" />
     <Folder Include="Behavioural\State\" />
     <Folder Include="Behavioural\Visitor\" />
-    <Folder Include="Creational\Builder\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
