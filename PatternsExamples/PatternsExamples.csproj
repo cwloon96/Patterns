@@ -61,6 +61,8 @@
     <Compile Include="Behavioural\Strategy\Cafe.cs" />
     <Compile Include="Behavioural\Strategy\DiscountStrategy.cs" />
     <Compile Include="Behavioural\TemplateMethod\Character.cs" />
+    <Compile Include="Behavioural\Visitor\DiscountVisitor.cs" />
+    <Compile Include="Behavioural\Visitor\Visitable.cs" />
     <Compile Include="Creational\AbstractMethod\EmployeeComputerManager.cs" />
     <Compile Include="Creational\AbstractMethod\Factories\EmployeeComputerFactory.cs" />
     <Compile Include="Creational\AbstractMethod\Products\OperatingSystem.cs" />
@@ -99,7 +101,6 @@
     <Folder Include="Behavioural\Interpreter\" />
     <Folder Include="Behavioural\Iterator\" />
     <Folder Include="Behavioural\State\" />
-    <Folder Include="Behavioural\Visitor\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

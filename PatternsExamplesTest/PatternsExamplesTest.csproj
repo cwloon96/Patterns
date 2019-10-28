@@ -62,6 +62,7 @@
     <Compile Include="Behavioural\NullObjectTest.cs" />
     <Compile Include="Behavioural\ObserverTest.cs" />
     <Compile Include="Behavioural\StrategyTest.cs" />
+    <Compile Include="Behavioural\VisitorTest.cs" />
     <Compile Include="Creational\AbstractFactoryTest.cs" />
     <Compile Include="Creational\BuilderTest.cs" />
     <Compile Include="Creational\FactoryMethod.cs" />
