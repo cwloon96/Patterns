@@ -51,6 +51,9 @@
     <Compile Include="Behavioural\Command\Light.cs" />
     <Compile Include="Behavioural\Mediator\Counter.cs" />
     <Compile Include="Behavioural\Mediator\CounterMediator.cs" />
+    <Compile Include="Behavioural\Memento\SkillTree.cs" />
+    <Compile Include="Behavioural\Memento\SkillTreeMemento.cs" />
+    <Compile Include="Behavioural\Memento\SkillTreeMemory.cs" />
     <Compile Include="Behavioural\NullObject\StudentFactory.cs" />
     <Compile Include="Behavioural\NullObject\Students.cs" />
     <Compile Include="Behavioural\Observer\Observable.cs" />
@@ -95,7 +98,6 @@
   <ItemGroup>
     <Folder Include="Behavioural\Interpreter\" />
     <Folder Include="Behavioural\Iterator\" />
-    <Folder Include="Behavioural\Memento\" />
     <Folder Include="Behavioural\State\" />
     <Folder Include="Behavioural\Visitor\" />
   </ItemGroup>

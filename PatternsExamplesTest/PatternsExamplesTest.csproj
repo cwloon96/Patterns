@@ -58,6 +58,7 @@
     <Compile Include="Behavioural\ChainOfResponsibilityTest.cs" />
     <Compile Include="Behavioural\CommandTest.cs" />
     <Compile Include="Behavioural\MediatorTest.cs" />
+    <Compile Include="Behavioural\MementoTest.cs" />
     <Compile Include="Behavioural\NullObjectTest.cs" />
     <Compile Include="Behavioural\ObserverTest.cs" />
     <Compile Include="Behavioural\StrategyTest.cs" />
