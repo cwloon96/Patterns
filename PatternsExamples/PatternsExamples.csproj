@@ -58,6 +58,8 @@
     <Compile Include="Behavioural\NullObject\Students.cs" />
     <Compile Include="Behavioural\Observer\Observable.cs" />
     <Compile Include="Behavioural\Observer\Observer.cs" />
+    <Compile Include="Behavioural\State\IPhoneState.cs" />
+    <Compile Include="Behavioural\State\Phone.cs" />
     <Compile Include="Behavioural\Strategy\Cafe.cs" />
     <Compile Include="Behavioural\Strategy\DiscountStrategy.cs" />
     <Compile Include="Behavioural\TemplateMethod\Character.cs" />
@@ -100,7 +102,6 @@
   <ItemGroup>
     <Folder Include="Behavioural\Interpreter\" />
     <Folder Include="Behavioural\Iterator\" />
-    <Folder Include="Behavioural\State\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
