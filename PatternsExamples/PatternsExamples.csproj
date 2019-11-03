@@ -49,6 +49,9 @@
     <Compile Include="Behavioural\Command\Commands.cs" />
     <Compile Include="Behavioural\Command\Controller.cs" />
     <Compile Include="Behavioural\Command\Light.cs" />
+    <Compile Include="Behavioural\Iterator\Anime.cs" />
+    <Compile Include="Behavioural\Iterator\AnimeCollection.cs" />
+    <Compile Include="Behavioural\Iterator\Iterator.cs" />
     <Compile Include="Behavioural\Mediator\Counter.cs" />
     <Compile Include="Behavioural\Mediator\CounterMediator.cs" />
     <Compile Include="Behavioural\Memento\SkillTree.cs" />
@@ -101,7 +104,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Behavioural\Interpreter\" />
-    <Folder Include="Behavioural\Iterator\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
